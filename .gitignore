@@ -1,0 +1,12 @@
+# Lazy.nvim plugin directory (plugins will be auto-installed)
+lazy-lock.json
+
+# Ignore plugin data
+plugin/
+.luarc.json
+
+# Ignore undo/backup files
+*.un~
+*.swp
+*.swo
+
